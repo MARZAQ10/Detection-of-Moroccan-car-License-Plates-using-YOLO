@@ -1,6 +1,6 @@
 <h1>Recognition of Moroccan car License Plates using YOLO</h1>
 <div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:724/1*qAH2zhNNdmieB0syzOmwZQ.png" width="100%" height="300"/> 
+  <img src="https://miro.medium.com/v2/resize:fit:724/1*qAH2zhNNdmieB0syzOmwZQ.png" width="60%"/> 
 </div>
 <h2>Project</h2>
 <p>
