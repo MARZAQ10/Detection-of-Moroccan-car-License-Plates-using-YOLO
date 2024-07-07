@@ -1,5 +1,7 @@
 <h1>Recognition of Moroccan car License Plates using YOLO</h1>
-
+<div align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:724/1*qAH2zhNNdmieB0syzOmwZQ.png" width="100%" height="300"/> 
+</div>
 <h2>Project</h2>
 <p>
 This project involves implementing the YOLO (You Only Look Once) algorithm to detect et recognition Moroccan car license plates. YOLO is a popular object detection algorithm known for its efficiency and ability to detect objects in real-time with a single forward pass of the network. The focus will be on training the model to accurately identify and localize license plates within images, integrating it into a system that can be used for automated license plate recognition (ALPR) applications. Evaluation will ensure the model meets accuracy and performance requirements for practical deployment.
